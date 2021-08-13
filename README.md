@@ -4,8 +4,6 @@ this is a really awesome website
 
 Updates made on master on github before rebase
 
-## repository purpose
+## Repository purpose
 
-this will be a change that clonflicts
-with whatever is on the remote side
-this was edited locally
+this file is just a readme file.
